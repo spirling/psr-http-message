@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file, in reverse chronological order by release.
 
+## 2.0.0 - 2021-11-30
+
+### Added
+
+- PHP 8.1 support
+- Return type declarations for the most of the methods
+
+### Deprecated
+
+- Nothing
+
+### Removed
+
+- Nothing
+
+### Fixed
+
+- Nothing
+
 ## 1.0.1 - 2016-08-06
 
 ### Added
